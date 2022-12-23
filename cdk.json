@@ -28,8 +28,8 @@
       "aws"
     ],
     "dev" : {
-      "domains": [ "blog.xops.dev" ],
-      "email": "miga@iki.fi",
+      "domains": [ "website.com,website1.com" ],
+      "email": "alarm@website.com",
       "enableAlerts": false
     }
   }
